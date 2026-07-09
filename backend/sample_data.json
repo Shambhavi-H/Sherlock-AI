@@ -1,0 +1,65 @@
+{
+  "candidate_metadata": {
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "nicknames": ["MacBook Pro", "Alice", "Alice S.", "Alice's iPad"],
+    "keywords": ["algorithm", "system design", "fastapi", "react", "experience", "architecture"]
+  },
+  "initial_participants": [
+    {
+      "id": "part-1",
+      "display_name": "MacBook Pro",
+      "email": null,
+      "camera_on": false,
+      "speaking_duration": 0.0,
+      "questions_answered": [],
+      "join_order": 1,
+      "is_screen_sharing": false,
+      "role": "unknown"
+    },
+    {
+      "id": "part-2",
+      "display_name": "Dr. Bob Jones",
+      "email": "bob.jones@techcorp.com",
+      "camera_on": true,
+      "speaking_duration": 15.0,
+      "questions_answered": [],
+      "join_order": 2,
+      "is_screen_sharing": false,
+      "role": "interviewer"
+    },
+    {
+      "id": "part-3",
+      "display_name": "Charlie HR",
+      "email": "charlie.recruiter@techcorp.com",
+      "camera_on": true,
+      "speaking_duration": 5.0,
+      "questions_answered": [],
+      "join_order": 3,
+      "is_screen_sharing": false,
+      "role": "recruiter"
+    },
+    {
+      "id": "part-4",
+      "display_name": "Observer Dave",
+      "email": "dave.observer@techcorp.com",
+      "camera_on": false,
+      "speaking_duration": 2.0,
+      "questions_answered": [],
+      "join_order": 4,
+      "is_screen_sharing": false,
+      "role": "observer"
+    },
+    {
+      "id": "part-5",
+      "display_name": "Alice Smyth",
+      "email": "alice.smyth@imposter.com",
+      "camera_on": true,
+      "speaking_duration": 10.0,
+      "questions_answered": ["brief introduction"],
+      "join_order": 5,
+      "is_screen_sharing": false,
+      "role": "unknown"
+    }
+  ]
+}
